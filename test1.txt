@@ -1,5 +1,8 @@
+def test():
+    print('Aa')
+
 def main():
     print("I am source code of test1.txt file!")
 
 if __name__ == "__main__":
-    main()
+    test()
