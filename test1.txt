@@ -1,5 +1,6 @@
 def main():
-    print("Khutornoy")
+   print("Khutornoy")
+   print("Мой текст лучше")
 
 if __name__ == "__main__":
     main()
