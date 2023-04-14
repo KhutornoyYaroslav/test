@@ -3,6 +3,8 @@ def main():
    print("Мой текст лучше")
    print("Нет, мой")
 
+   print("Комит так не думает")
+
 if __name__ == "__main__":
     main()
 
